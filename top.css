@@ -1,0 +1,88 @@
+div.top_t {
+ background-image: url(../img/top/b_back.gif); 
+ background-repeat: no-repeat; 
+ background-position: right top; 
+ text-align: left; 
+ width: 880px;
+ height: 130px;
+ margin-top: 5px; 
+ margin-left: 5px; 
+ padding-top: 12px; 
+ padding-bottom: 12px; 
+ }
+
+div.top_t p{ width: 800px;}
+
+div.topcntens{ width: 880px; margin-left: 5px; overflow: hidden; }
+
+div#points {
+ clear: both;
+ width: 880px;
+ margin: 25px 0 0 5px;
+}
+
+div#points table td.points2 {
+ padding: 0;
+ margin: 0;
+}
+
+div#left {
+	float: left; 	
+	width: 400px;
+	margin-right: 5px; 
+}
+
+div#news {
+	height: 318px;
+	overflow-y:scroll;
+	border: solid 1px #999; 
+	margin-bottom: 3px; 
+}
+
+dl{	margin: 15px 0 0;} 
+
+dl dt {
+	font-size: 10px; 
+	float: left; 
+	width: 85px; 
+	padding-top:5px;
+	padding-bottom:8px;
+	padding-right:0;
+	line-height: 120%; 
+   border-top:1px dotted #999;
+ }
+
+dl dd {
+ _height: 1%; /* Hack for Win IE6 */
+	margin-left:85px; 
+	padding-top:5px;
+	padding-bottom:8px;
+	padding-right:0;
+	line-height: 120%; 
+   border-top:1px dotted #999;
+	}
+
+div.pickup {
+	width: 440px;
+	float: left;	
+	text-align:center;
+}
+div.pickup a:hover img {filter: alpha(opacity=75); -moz-opacity:0.75; opacity:0.75;	}
+
+div.p_block{ width: 215px; float: left; margin-top: 5px; margin-left: 3px; }
+
+ul#nav1 li {
+	float: left;
+	width: 250px;
+	height: 110px;
+	margin-right: 10px;
+	overflow: hidden;
+}
+
+div.banner{
+	width: 800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 20px;
+}
+
