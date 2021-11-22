@@ -26,7 +26,7 @@ padding: 0;
 margin: 0 auto;
 }
 
-/*ƒjƒ…[ƒXƒgƒsƒbƒNƒX•”•ª*/
+/*ãƒ‹ãƒ¥ãƒ¼ã‚¹ãƒˆãƒ”ãƒƒã‚¯ã‚¹éƒ¨åˆ†*/
 #points table{
 	margin:0 auto;
 }
@@ -47,7 +47,7 @@ div#news {
 	text-align: left;
 }
 
-/*ƒjƒ…[ƒXƒgƒsƒbƒNƒX‚ÌƒRƒ“ƒeƒ“ƒc•”•ª*/
+/*ãƒ‹ãƒ¥ãƒ¼ã‚¹ãƒˆãƒ”ãƒƒã‚¯ã‚¹ã®ã‚³ãƒ³ãƒ†ãƒ³ãƒ„éƒ¨åˆ†*/
 div#news .sekou span{
 	color: white;
 background-color: #387bfb;
@@ -85,7 +85,7 @@ dl{	margin: 15px 0 0;}
 dl dt {
 	font-size: 16px; 
 	float: left; 
-@@font-weight: bold;
+ã€€ã€€font-weight: bold;
 	padding-top:5px;
 	padding-bottom:8px;
 	padding-right:0;
@@ -96,12 +96,13 @@ dl dt {
 
 dl dd {
  _height: 1%; /* Hack for Win IE6 */
-	margin-left:200px; 
+	margin-left:240px; 
 	padding-top:5px;
 	padding-bottom:8px;
 	padding-right:0;
 	line-height: 120%; 
    border-top:1px dotted #999;
+	
 	}
 
 
